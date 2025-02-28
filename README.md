@@ -58,4 +58,4 @@ This project involved applying **classical machine learning techniques** to the 
 - **Model Evaluation** (Confusion Matrices, ROC Curves, Precision-Recall)
 - **Dimensionality Reduction** (PCA) & **Feature Engineering**
 
-🚀 **This project demonstrated my ability to apply machine learning algorithms, evaluate model performance, and optimize predictive models for real-world datasets.**
+🚀 **This project demonstrated my ability to apply machine learning algorithms, evaluate model performance and optimise predictive models for real-world datasets.**
